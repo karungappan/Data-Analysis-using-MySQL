@@ -1,4 +1,4 @@
-*# Analyze Data in a Model Car Database with MySQL Workbench*
+## Analyze Data in a Model Car Database with MySQL Workbench
 
 ## Overview
 This project involves analyzing the inventory data of the fictional **Mint Classics Company** to support data-driven business decisions regarding warehouse storage and inventory management. As an entry-level data analyst, the objective is to assess how inventory can be reorganized or reduced to facilitate the closure of one storage facility while maintaining timely order fulfillment.
