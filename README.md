@@ -35,12 +35,12 @@ The following SQL scripts were executed to answer the key analytical questions:
 | `Payment Trends.sql` | Reviews payment trends for better financial planning. |
 | `Top Customers and Frequent Products.sql` | Identifies the most valuable customers and their purchasing habits. |
 | `Unordered Products.sql` | Finds products that have never been ordered, like the **1985 Toyota Supra**. |
-| `Warehouse Inventory Percentage.sql` | Calculates inventory distribution across warehouses:
-  - **North**: 23%
+| `Warehouse Inventory Percentage.sql` | Calculates inventory distribution across warehouses:  - **North**: 23%
   - **East**: 39%
   - **West**: 22%
   - **South**: 14%
 
+ 
 ## Tools & Technologies Used
 - **MySQL Workbench** for database queries
 - **SQL** for data extraction and analysis
